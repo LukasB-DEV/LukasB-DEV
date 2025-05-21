@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Lukas</h1>
 <h3 align="center">A fullstack developer from Germany</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=lukasb-dev&label=Profile%20views&color=0e75b6&style=flat" alt="lukasb-dev" /> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lukasb-dev" alt="lukasb-dev" /></a> </p>
 
 - 🔭 I’m currently working on **RescueDogs and DriBu**
