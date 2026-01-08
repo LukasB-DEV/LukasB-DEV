@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **RescueDogs and DriBu**
 
-- 👨‍💻 All of my projects are available at [it-bruderhofer.de](it-bruderhofer.de)
+- 👨‍💻 All of my projects are available at <a href="https://it-bruderhofer.de" target="blank">it-bruderhofer.de</a>
 
 - 📫 How to reach me **lukas@it-bruderhofer.de**
 
