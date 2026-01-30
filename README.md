@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Lukas</h1>
 <h3 align="center">A fullstack developer from Germany</h3>
 
-- 🔭 I’m currently working on **<a href="https://it-bruderhofer.de/rescuedogs.html" target="blank">RescueDogs</a> and <a href="https://it-bruderhofer.de/dribu" target="blank">DriBu</a>**
+- 🔭 I’m currently working on **<a href="https://it-bruderhofer.de/rescuedogs.html" target="blank">RescueDogs</a> and <a href="https://it-bruderhofer.de/dribu.html" target="blank">DriBu</a>**
 
 - 👨‍💻 All of my projects are available at <a href="https://it-bruderhofer.de" target="blank">it-bruderhofer.de</a>
 
