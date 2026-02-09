@@ -59,5 +59,3 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> 
   </a> 
 </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=lukasb-dev" alt="lukasb-dev" /></p>
